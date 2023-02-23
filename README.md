@@ -1,4 +1,4 @@
-# Stage Separation 2 (SSEP 2)
+# Stage Separation 2 (SSEP 2) CAD Repository
 
 - Make and launch a two stage rocket
 
