@@ -1,4 +1,4 @@
-# Stage Separation 2 (SSEP 2) CAD Repository
+# BlueBeary - Stage Separation 2 (SSEP 2) CAD Repository
 
 Instructions for Updates:
 
